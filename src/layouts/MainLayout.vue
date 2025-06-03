@@ -14,9 +14,9 @@
       </q-toolbar>
 
       <q-tabs align="left">
-        <q-route-tab to="/page1" label="Page One" />
-        <q-route-tab to="/page2" label="Page Two" />
-        <q-route-tab to="/page3" label="Page Three" />
+        <q-route-tab to="/" label="Página Inicial" />
+        <q-route-tab to="/linhas" label="Linhas" />
+        <q-route-tab to="/mapa" label="Mapa" />
       </q-tabs>
     </q-header>
 
